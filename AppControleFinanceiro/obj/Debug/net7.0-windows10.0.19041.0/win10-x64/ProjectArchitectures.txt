@@ -1,0 +1,1 @@
+C:\Clenildo\Projetos\AppControleFinanceiro\App\AppControleFinanceiro\AppControleFinanceiro\AppControleFinanceiro.csproj;x64
